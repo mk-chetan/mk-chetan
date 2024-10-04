@@ -24,7 +24,7 @@ Hi there! I’m **Chetan Kumar**, an aspiring **Cyber Security Professional** wi
   
 - **Frameworks:** OWASP, NIST, MITRE ATT&CK
   
-- **Certifications:** Working on CISSP
+- **Certifications:** Working on CompTIA PenTest+ 
 
 ---
 
